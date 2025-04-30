@@ -6,6 +6,13 @@ An AI-powered chatbot that allows users to interact with a database using natura
 
 ---
 
+## 🌐 Live Demo
+
+You can access the deployed application here:  
+👉 [GenAI-SQL_Chat-App](https://genai-sql-chat-app.streamlit.app/)
+
+---
+
 ## 🔍 Features
 
 - 🧠 Natural Language to SQL query generation using Groq's LLM API
