@@ -1,4 +1,4 @@
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://genaisqlchatapp-x5b7appuqscpmxy6epm8r5k.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://genai-sql-chat-app.streamlit.app/)
 
 # GenAI SQL Chat App
 
